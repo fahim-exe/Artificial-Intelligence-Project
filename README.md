@@ -1,1 +1,1 @@
-# 422-Artificial-Intelligence-Project
+# Machine Learning Approach For Stock Market Prediction
